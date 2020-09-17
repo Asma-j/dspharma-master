@@ -5,13 +5,34 @@
 .col-8 {
   display: inline;
 }
-.col-md-8 {
-  background-image: url(/images/slide-img2.jpg);
+.card-text1 {
+  font-size: x-large;
+  font-style: oblique;
 }
 .pro {
   height: 250px;
-  width: 250px;
 }
-.card-body {
+.card-1 {
   width: 300px;
+  box-shadow: 0 8px 8px -6px rgb(233, 148, 79);
+}
+.text2 {
+  margin-top: 12px;
+}
+.detail {
+  background-color: coral;
+}
+.pro1 {
+  width: 297px;
+}
+.card-text2 {
+  color: whitesmoke;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  background-color: coral;
+}
+.col-md-6.col-sm-4.col-sm-6 {
+  margin-top: 20px;
 }
